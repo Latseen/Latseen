@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Chet Russell
+## Chet Russell
 
 [![Chet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Latseen&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Latseen&hide_progress=false&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
