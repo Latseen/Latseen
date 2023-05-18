@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 ### Chet Russell
 
-[![Chet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Latseen)](https://github.com/anuraghazra/github-readme-stats)
+[![Chet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Latseen&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
